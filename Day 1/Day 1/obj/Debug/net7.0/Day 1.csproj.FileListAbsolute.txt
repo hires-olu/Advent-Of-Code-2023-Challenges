@@ -1,0 +1,14 @@
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\bin\Debug\net7.0\Day 1.exe
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\bin\Debug\net7.0\Day 1.deps.json
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\bin\Debug\net7.0\Day 1.runtimeconfig.json
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\bin\Debug\net7.0\Day 1.dll
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\bin\Debug\net7.0\Day 1.pdb
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\obj\Debug\net7.0\Day 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\obj\Debug\net7.0\Day 1.AssemblyInfoInputs.cache
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\obj\Debug\net7.0\Day 1.AssemblyInfo.cs
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\obj\Debug\net7.0\Day 1.csproj.CoreCompileInputs.cache
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\obj\Debug\net7.0\Day 1.dll
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\obj\Debug\net7.0\refint\Day 1.dll
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\obj\Debug\net7.0\Day 1.pdb
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\obj\Debug\net7.0\Day 1.genruntimeconfig.cache
+E:\Cloud Storage\GitHub Works\Advent-Of-Code-2023-Challenges\Day 1\Day 1\obj\Debug\net7.0\ref\Day 1.dll
